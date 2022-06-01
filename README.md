@@ -1,6 +1,6 @@
 # Basketball-Spacing
 ## Introduction
-Grouping NBA Players with the K-means Clustering algorithm based on their shooting efficiency.
+The goal of this project is to group NBA Players with the K-means Clustering algorithm based on their shooting efficiency. This project includes a created metric called a "spacing score" which is a score out of 5 to determine how much spacing a five-man lineup has based on the points assigned to each player in the lineup which is determined by the cluster that they fall into after running the K-means Clustering algorithm.
 
 ## Configurations Required
 - Jupyter Notebook
