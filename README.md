@@ -11,7 +11,6 @@ The goal of this project is to group NBA Players with the K-means Clustering alg
 - Pandas
 - Numpy
 - Sklearn
-- PandaSQL
 - BeautifulSoup
 - Matplotlib
 - Seaborn
